@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Alberto Puerto CV Formats:
+- https://registry.jsonresume.org/albertopuerto?theme=elegant
+- https://registry.jsonresume.org/albertopuerto?theme=stackoverflow
+- https://registry.jsonresume.org/albertopuerto?theme=kendall
