@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 - https://registry.jsonresume.org/albertopuerto?theme=elegant
 - https://registry.jsonresume.org/albertopuerto?theme=stackoverflow
 - https://registry.jsonresume.org/albertopuerto?theme=kendall
+- https://registry.jsonresume.org/albertopuerto?theme=rickosborne
+- https://registry.jsonresume.org/albertopuerto?theme=onepage-plus
+- https://registry.jsonresume.org/albertopuerto?theme=macchiato
